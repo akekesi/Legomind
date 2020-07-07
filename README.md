@@ -1,17 +1,17 @@
 # Legomind
 
 ## The Game
-Legomind is a mobile app / board game idea based on Mastermind.
+**Legomind is a mobile app / board game idea based on Mastermind.**
 
-Type: logic game (mobile app / board game)
+**Type:** logic game (mobile app / board game)
 
-Goal: guess a randomly assembled character
+**Goal:** guess a randomly assembled character
 
-Players: 1, 2, teams, online community
+**Players:** 1, 2, teams, online community
 
-Levels: from very easy for children to very hard for nerds
+**Levels:** from very easy for children to very hard for nerds
 
-Editions: 
+**Editions:**
 * new original character --> new brand (as Pac-Man)
   
 * photos of family/friends (individual)
@@ -46,7 +46,7 @@ Editions:
 
   * adidas superstar (paint the parts of shoes)
 
-Extra: invent a story about your character, share it on the internet --> community
+**Extra:** invent a story about your character, share it on the internet --> community
 
 ## Links
 [Presentation](https://drive.google.com/open?id=1Jfz-ECxITRAg1vgqsN7_6cBn6IfIkvrU)

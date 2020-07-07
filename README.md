@@ -1,7 +1,6 @@
-Legomind_README
-Attila Kekesi
-05.06.2020
+# Legomind
 
+## The Game
 Legomind is a mobile app / board game idea based on Mastermind.
 
 Type: logic game (mobile app / board game)
@@ -33,14 +32,15 @@ Editions:
 
 Extra: invent a story about your character, share it on the internet --> community
 
-Presentation:
-https://drive.google.com/open?id=1Jfz-ECxITRAg1vgqsN7_6cBn6IfIkvrU
+## Links
+[Presentation](https://drive.google.com/open?id=1Jfz-ECxITRAg1vgqsN7_6cBn6IfIkvrU)
 
-Youtube:
-https://www.youtube.com/watch?v=g61y6o8w9KM&list=PLgRD4Phr5Y-XNZCLYAp_pjrH9JwWVzu3F
+[Youtube](https://www.youtube.com/watch?v=g61y6o8w9KM&list=PLgRD4Phr5Y-XNZCLYAp_pjrH9JwWVzu3F)
 
-Mastermind:
-en.wikipedia.org/wiki/Mastermind_(board_game)
+[Mastermind](en.wikipedia.org/wiki/Mastermind_(board_game))
 
-GitHub:
-https://github.com/akekesi/Legomind.git
+[GitHub](https://github.com/akekesi/Legomind.git)
+
+## Authors
+* Attila Kekesi
+..05.06.2020

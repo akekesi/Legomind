@@ -34,13 +34,9 @@ Extra: invent a story about your character, share it on the internet --> communi
 
 ## Links
 [Presentation](https://drive.google.com/open?id=1Jfz-ECxITRAg1vgqsN7_6cBn6IfIkvrU)
-
 [Youtube](https://www.youtube.com/watch?v=g61y6o8w9KM&list=PLgRD4Phr5Y-XNZCLYAp_pjrH9JwWVzu3F)
-
 [Mastermind](en.wikipedia.org/wiki/Mastermind_(board_game))
-
 [GitHub](https://github.com/akekesi/Legomind.git)
 
 ## Authors
-* Attila Kekesi
-..05.06.2020
+* Attila Kekesi (05.06.2020)

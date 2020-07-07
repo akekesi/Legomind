@@ -24,27 +24,27 @@ Editions:
 
   * with „Fang den Hut!“ hats (for Ravensburger fans)
 
-  ∙ video games (Super Mario, Mortal Kombat…)
+  * video games (Super Mario, Mortal Kombat…)
 
-  ∙ movies (Friends, Simpsons, Frozen…)
+  * movies (Friends, Simpsons, Frozen…)
 
-  ∙ superheroes (Batman, Darth Vader…)
+  * superheroes (Batman, Darth Vader…)
 
-  ∙ celebrities (Einstein, Monroe…)
+  * celebrities (Einstein, Monroe…)
 
-  ∙ sports (Jordan…)
+  * sports (Jordan…)
 
-  ∙ music bands (Fanta4, BSB…)
+  * music bands (Fanta4, BSB…)
 
-  ∙ animals (horse: colour, saddle, mane)
+  * animals (horse: colour, saddle, mane)
 
-  ∙ vehicles (cars, planes, tanks…)
+  * vehicles (cars, planes, tanks…)
 
-  ∙ buildings (towers, bridges…)
+  * buildings (towers, bridges…)
 
-  ∙ cocktails (party-game for students)
+  * cocktails (party-game for students)
 
-  ∙ adidas superstar (paint the parts of shoes)
+  * adidas superstar (paint the parts of shoes)
 
 Extra: invent a story about your character, share it on the internet --> community
 

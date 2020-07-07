@@ -20,19 +20,31 @@ Editions:
   
 * already existing characters:
   
-..* games (Lego, Duplo, Playmobil, Barbie…)
-..* with „Fang den Hut!“ hats (for Ravensburger fans)
-      ∙ video games (Super Mario, Mortal Kombat…)
-      ∙ movies (Friends, Simpsons, Frozen…)
-      ∙ superheroes (Batman, Darth Vader…)
-      ∙ celebrities (Einstein, Monroe…)
-      ∙ sports (Jordan…)
-      ∙ music bands (Fanta4, BSB…)
-      ∙ animals (horse: colour, saddle, mane)
-      ∙ vehicles (cars, planes, tanks…)
-      ∙ buildings (towers, bridges…)
-      ∙ cocktails (party-game for students)
-      ∙ adidas superstar (paint the parts of shoes)
+* games (Lego, Duplo, Playmobil, Barbie…)
+
+* with „Fang den Hut!“ hats (for Ravensburger fans)
+
+∙ video games (Super Mario, Mortal Kombat…)
+
+∙ movies (Friends, Simpsons, Frozen…)
+
+∙ superheroes (Batman, Darth Vader…)
+
+∙ celebrities (Einstein, Monroe…)
+
+∙ sports (Jordan…)
+
+∙ music bands (Fanta4, BSB…)
+
+∙ animals (horse: colour, saddle, mane)
+
+∙ vehicles (cars, planes, tanks…)
+
+∙ buildings (towers, bridges…)
+
+∙ cocktails (party-game for students)
+
+∙ adidas superstar (paint the parts of shoes)
 
 Extra: invent a story about your character, share it on the internet --> community
 

@@ -12,16 +12,16 @@ Players: 1, 2, teams, online community
 Levels: from very easy for children to very hard for nerds
 
 Editions: 
-  ∙ new original character --> new brand (as Pac-Man)
+* new original character --> new brand (as Pac-Man)
   
-  ∙ photos of family/friends (individual)
+* photos of family/friends (individual)
   
-  ∙ do your own drawings (creativity)
+* do your own drawings (creativity)
   
-  ∙ already existing characters:
+* already existing characters:
   
-      ∙ games (Lego, Duplo, Playmobil, Barbie…)
-      ∙ with „Fang den Hut!“ hats (for Ravensburger fans)
+..* games (Lego, Duplo, Playmobil, Barbie…)
+..* with „Fang den Hut!“ hats (for Ravensburger fans)
       ∙ video games (Super Mario, Mortal Kombat…)
       ∙ movies (Friends, Simpsons, Frozen…)
       ∙ superheroes (Batman, Darth Vader…)

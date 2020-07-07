@@ -3,7 +3,7 @@
 ## The Game
 Legomind is a mobile app / board game idea based on Mastermind.
 
-Type: logic game (mobile app / board game)
+Type:(underline) logic game (mobile app / board game)
 
 Goal: guess a randomly assembled character
 
@@ -20,9 +20,9 @@ Editions:
   
 * already existing characters:
   
-* games (Lego, Duplo, Playmobil, Barbie…)
+  * games (Lego, Duplo, Playmobil, Barbie…)
 
-* with „Fang den Hut!“ hats (for Ravensburger fans)
+  * with „Fang den Hut!“ hats (for Ravensburger fans)
 
 ∙ video games (Super Mario, Mortal Kombat…)
 

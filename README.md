@@ -57,5 +57,7 @@
 
 [GitHub](https://github.com/akekesi/Legomind.git)
 
+![Legomind](https://user-images.githubusercontent.com/65607182/89129486-05a98980-d4fe-11ea-9d59-3a5391256eef.PNG)
+
 ## Authors
 * Attila Kekesi (05.06.2020)
